@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi there! 👋 I'm a passionate Cloud Engineer and an AWS Solutions Architect Certified professional who thrives in the world of Linux, DevOps, and everything cloud. 🚀
 
-<!--
-**ibrokenny/ibrokenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://github.com/ibrokenny/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a humanities enthusiast, love nature and its wonders, and am a Muslim.😄
--->
+
